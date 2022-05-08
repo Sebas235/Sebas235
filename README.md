@@ -1,13 +1,23 @@
 
-# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Sebas 👋
+
+![Discord](https://img.shields.io/discord/720326694271189124?label=Discord&logo=Discord)
 
 
-[![Discord](https://cdn.discordapp.com/attachments/929423481463009381/970839261748285460/LOGO_SIN_FONDO.png)](https://discord.gg/aMYzXEMt4c)
+### Spotify Playing 🎧
 
+[<img src="https://novatorem-seven-indol.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/moxhaforeva)
 
-## 👨‍💻 Blog
+[![MOXHA's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOXHAFOREVA&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOXHAFOREVA&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- Programmer Discord Bots, Tools BlackHacking and FiveM.
-- Owner Latins Life
+### Connect with me:
+[<img align="left" alt="Youtube" width="44px" src="https://img.icons8.com/color/2x/youtube-play.png" />][youtube]
+[<img align="left" alt="Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
 
-![](https://cdn.discordapp.com/attachments/887769439154610186/970840927239299132/277842743_679308886713556_6650350155340085701_n.jpg)
+<br/> <br/>
+
+[youtube]: https://www.youtube.com/channel/UCQpilqDvkmxqJzm-zSLFNHA
+[discord]: https://discord.gg/davU2SY
+[webdevplaylist]: https://discord.gg/davU2SY
