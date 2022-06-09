@@ -13,7 +13,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOXHAFOREVA&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
-[<img align="left" alt="Youtube" width="44px" src="https://img.icons8.com/color/2x/youtube-play.png" />][youtube]
 [<img align="left" alt="Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
 
 <br/> <br/>
