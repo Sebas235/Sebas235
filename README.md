@@ -18,6 +18,5 @@
 
 <br/> <br/>
 
-[youtube]: https://www.youtube.com/channel/UCQpilqDvkmxqJzm-zSLFNHA
-[discord]: https://discord.gg/davU2SY
-[webdevplaylist]: https://discord.gg/davU2SY
+[discord]: https://discord.gg/d232jBTj3T
+[webdevplaylist]: https://discord.gg/d232jBTj3T
