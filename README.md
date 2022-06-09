@@ -8,7 +8,7 @@
 
 [<img src="https://novatorem-seven-indol.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/ws02acp9yhpqltkquf1c0molt)
 
-[![Sebas's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOXHAFOREVA&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Sebas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebas235&theme=radical)](https://github.com/Sebas235/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOXHAFOREVA&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
